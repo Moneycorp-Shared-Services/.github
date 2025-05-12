@@ -1,5 +1,5 @@
 # Moneycorp Shared Services Ltd
-![Moneycorp logo](../assets/moneycorp_logo.png)
+<img src="../assets/moneycorp_logo.png" alt="Moneycorp logo" width="100">
 
 This is the public GitHub organisation for Moneycorp Shared Services Ltd.
 
