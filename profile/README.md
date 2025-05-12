@@ -1,4 +1,4 @@
-<img src="../assets/moneycorp_logo.png" alt="Moneycorp logo" width="400" align="right">
+<img src="../assets/moneycorp_logo.png" alt="Moneycorp logo" width="400">
 
 ---
 
